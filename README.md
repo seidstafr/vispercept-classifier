@@ -1,4 +1,4 @@
-# DS3000
+# Visual Percept Community & Transition Classifier
 NIfTI -> csv file conversion center for doi:10.18112/openneuro.ds001621.v1.1.0
 This is an example output of our file conversion process. Our full dataset consists of 100 NIfTI files
 (almost all of which are larger than 50 GB) and 100 tsv files (all 9 KB). With the help of the nibabel
